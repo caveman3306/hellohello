@@ -7,7 +7,7 @@
             "name": "George Smirnov"
         }
     ],
-	"minimum-stability": "dev",
+    "minimum-stability": "dev",
     "require": {
       "php": ">=5.3.0"
     },
