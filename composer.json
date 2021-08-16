@@ -1,0 +1,20 @@
+{
+    "name": "caveman108/hellohello",
+    "description": "stable package - Hello Hello",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "George Smirnov"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HelloHello\\": "src/"
+        }
+    }
+}
